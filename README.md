@@ -1,0 +1,1 @@
+The implementation of the final project for Numerical Computation. This project interpolates NOAA's precipitation data for Boulder in order to find long-term trends and to determine shifts in rainy seasons.
